@@ -11348,7 +11348,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "timhack",
+                    Name = "LOXRI hub",
                     Content = "Hop Server",
                     Image = "rbxassetid://8192162908",
                     Time = 5
